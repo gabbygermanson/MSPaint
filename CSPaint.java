@@ -1,12 +1,6 @@
-// I worked on the homework assignment alone, using only course materials.
 
 import javafx.application.Application;
 import javafx.scene.Scene;
-// import javafx.scene.text.*; //has TExt, Font, FontWeight, FontPosture
-// import javafx.scene.text.Font;
-// import javafx.scene.text.Text;
-// import javafx.scene.text.FontWeight;
-// import javafx.scene.text.FontPosture;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import javafx.scene.control.Label;
